@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabian Juliansyah Cahyadi</h1>
 <h3 align="center">Currently studying in Gunadarma University with computer science major. Second year btw</h3>
 
-- 🔭 I’m currently working on my **Admin Interface Project**
+- 🔭 I’m currently working on my **simple web laravel project**
 
 - 🌱 I’m currently learning **Laravel and C**
 
