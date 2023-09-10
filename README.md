@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **simple web laravel project**
 
-- 🌱 I’m currently learning **Laravel and C**
+- 🌱 I’m currently learning **Laravel and Vue js**
 
 - 🤝 Want to be friends with **Anyone**
 
