@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii, my name is Fabian J.C, Studying In Gunadarma University, 6th Semester. <br>🔭 I’m currently working on my college projects<br>🏢Currently, I work as a lecturer assistant<br>👯 I’m looking for friends<br>🌱 I’m currently learning web dev and mobile dev<br>💬 Ask me about anything<br>⚡ Bangkit Cohort 2024🔥
+Hii, my name is Fabian J.C, Studying In Gunadarma University, 6th Semester. <br>🔭 I’m currently working on my bangkit capstone projects<br>🏢Currently, I work as a lecturer assistant<br>👯 I’m looking for friends<br>🌱 I’m currently learning web dev and mobile dev<br>💬 Ask me about anything<br>⚡ Bangkit Cohort 2024🔥
 
 
 ## 🌐 Socials:
