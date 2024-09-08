@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [fabianjuliansyah89@gmail.com](mailto:fabianjuliansyah89@gmail.com)
-* 🧠  I'm learning React and Express
+* 🧠  Currently learning React and Express
 * ⚡  I have cat🐈
 
 ### Skills
